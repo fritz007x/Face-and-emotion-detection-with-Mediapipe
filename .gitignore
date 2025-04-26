@@ -1,0 +1,51 @@
+# Byte-compiled files and __pycache__
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+.env/
+.ENV/
+
+build/
+dist/
+*.egg-info
+
+# Temporary files
+*.temp
+*.tmp
+*.log
+
+# Media and uploads
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# Streamlit-generated files
+.streamlit/
+
+# Mediapipe temp files
+mediapipe_log*.*
+
+# MoviePy temp files
+*.mp3
+*.wav
+*.mpg
+
+# Temp directories
+temp/
+temp_*
+*.tmp
+
+# Annotated outputs
+annotated_*.png
+annotated_video.mp4
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

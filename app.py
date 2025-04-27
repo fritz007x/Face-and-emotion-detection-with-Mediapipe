@@ -1,5 +1,4 @@
 import sys
-print("Here")
 print(sys.executable)
 import streamlit as st
 import numpy as np
